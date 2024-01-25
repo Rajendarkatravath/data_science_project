@@ -1,1 +1,1 @@
-## end to end data scienec project
+## end to end data sciene project
